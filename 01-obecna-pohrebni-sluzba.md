@@ -116,6 +116,8 @@ Pro válečné hroby a pietní místa existuje zvláštní úprava v zákoně č
 - *NS* [30 Cdo 1712/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5F1336444F4DD5EDC125857C0045502C?openDocument) — 30. 4. 2020, kat. A
   > „Dohoda zdravotnického zařízení a syna zemřelé o dočasném uložení těla zemřelé ve zdravotnickém zařízení, uzavřená před 1. lednem 2014, není sama o sobě neplatná pro rozpor se zákonem"
 
+**K místní judikaturní kartě NS 30 Cdo 1712/2018:** Karta se definic v § 2 dotýká jen nepřímo: podle ní dohoda zdravotnického zařízení a syna zemřelé o dočasném uložení těla zemřelé ve zdravotnickém zařízení, uzavřená před 1. lednem 2014, není sama o sobě neplatná pro rozpor se zákonem. Pro výklad pojmů z toho plyne, že zákon soukromoprávní ujednání o dočasném uložení lidských pozůstatků (před sjednáním pohřbení) nevylučuje; podrobněji viz § 4 a § 5.
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Po úmrtí seniora sjedná pohřbení jeho soused (nikoli příbuzný) tři dny po oznámení úmrtí synovi. Syn se o den později dostaví do pohřební služby, žádá vydání urny a tvrdí, že jako osoba podle § 114 odst. 1 OZ má přednost.
@@ -255,6 +257,8 @@ Neveřejné pohřebiště je úzká výjimka vázaná na registrovanou církev, 
 
 - *NS* [30 Cdo 1712/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5F1336444F4DD5EDC125857C0045502C?openDocument) — 30. 4. 2020, kat. A
   > „Dohoda zdravotnického zařízení a syna zemřelé o dočasném uložení těla zemřelé ve zdravotnickém zařízení, uzavřená před 1. lednem 2014, není sama o sobě neplatná pro rozpor se zákonem"
+
+**K místní judikaturní kartě NS 30 Cdo 1712/2018:** Karta potvrzuje, že veřejnoprávní příkaz důstojného zacházení s lidskými pozůstatky sám o sobě nečiní neplatnou dohodu zdravotnického zařízení s osobou blízkou zemřelé (v kartě synem) o dočasném uložení těla ve zdravotnickém zařízení; karta se týká dohody uzavřené před 1. lednem 2014. Pro praxi z toho plyne, že platnost takové dohody je třeba posuzovat podle soukromého práva, zatímco dodržení zákazů podle odst. 1 je otázkou veřejnoprávní odpovědnosti. Zda závěr platí stejně pro dohody uzavřené podle občanského zákoníku č. 89/2012 Sb., karta neřeší; jde o výkladovou otázku.
 
 #### Katalog zákazů (odst. 1)
 
@@ -406,6 +410,8 @@ Oprávnění k otevření rakve, urny, hrobu a k exhumaci je taxativní; jiné o
 
 - *NS* [30 Cdo 1712/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5F1336444F4DD5EDC125857C0045502C?openDocument) — 30. 4. 2020, kat. A
   > „Dohoda zdravotnického zařízení a syna zemřelé o dočasném uložení těla zemřelé ve zdravotnickém zařízení, uzavřená před 1. lednem 2014, není sama o sobě neplatná pro rozpor se zákonem"
+
+**K místní judikaturní kartě NS 30 Cdo 1712/2018:** Karta se týká situace, kdy tělo zemřelé zůstává dočasně ve zdravotnickém zařízení na základě dohody se synem zemřelé: taková dohoda, uzavřená před 1. lednem 2014, není sama o sobě neplatná pro rozpor se zákonem. Pro praxi z toho plyne, že dočasné uložení těla po dohodě s osobou blízkou je nutné odlišit od situace, kdy pohřbení ve lhůtě 96 hodin nesjedná nikdo a vzniká povinnost obce podle odst. 1; o tom, jak dohoda o uložení ovlivňuje běh této lhůty, karta nic neříká, jde proto o výkladovou otázku.
 
 #### Podmínky vzniku povinnosti obce (odst. 1)
 

@@ -2,7 +2,7 @@
 
 > **Znění k 1. červenci 2025** (dokument e-Sbírky `SB-2001-00256_2025-07-01`). Komentář je zpracován **výhradně z lokálních materiálů**; nevyužívá živé komerční právní databáze.
 >
-> **Metodická poznámka:** Výklad vychází z doslovného konsolidovaného znění zákona citovaného v kapitolách tohoto repozitáře, z jeho systematiky a z obecných výkladových zásad. Repozitář neobsahuje místní judikaturu k zákonu o pohřebnictví; komentář proto neuvádí žádné spisové značky soudních rozhodnutí a tam, kde text zákona ponechává otázku otevřenou, ji výslovně označuje jako výkladovou otázku. Prováděcí předpisy (zejména vyhláška č. 277/2017 Sb., o postupu obce při zajištění slušného pohřbení) a související zákony jsou zmiňovány jen v rozsahu potřebném pro pochopení vazeb.
+> **Metodická poznámka:** Výklad vychází z doslovného konsolidovaného znění zákona citovaného v kapitolách tohoto repozitáře, z jeho systematiky a z obecných výkladových zásad. Repozitář obsahuje jedinou místní judikaturní kartu k zákonu o pohřebnictví, [NS 30 Cdo 1712/2018](judikatura/NS-30-Cdo-1712-2018.md), citovanou u § 2, § 4 a § 5; podle její právní věty dohoda zdravotnického zařízení a syna zemřelé o dočasném uložení těla zemřelé ve zdravotnickém zařízení, uzavřená před 1. lednem 2014, není sama o sobě neplatná pro rozpor se zákonem. Jiné spisové značky soudních rozhodnutí komentář neuvádí a tam, kde text zákona ponechává otázku otevřenou, ji výslovně označuje jako výkladovou otázku. Prováděcí předpisy (zejména vyhláška č. 277/2017 Sb., o postupu obce při zajištění slušného pohřbení) a související zákony jsou zmiňovány jen v rozsahu potřebném pro pochopení vazeb.
 
 ---
 
@@ -68,7 +68,7 @@ Zákon má **42 paragrafových jednotek** zachycených v lokálním znění (§ 
 
 - U každého paragrafu je v citačním bloku uvedeno **úplné doslovné znění** podle dokumentu e-Sbírky `SB-2001-00256_2025-07-01`, pod ním oddíl `**Výklad:**` a dále oddíly F. Kazuistika, G. Protiargumenty a rizika a H. Praktický závěr s kontrolním checklistem.
 - Kazuistiky jsou **modelové situace** sloužící k ilustraci aplikace normy; nejde o popis skutečných rozhodnutí.
-- Komentář neobsahuje judikaturu ani spisové značky soudních rozhodnutí, protože k zákonu o pohřebnictví nejsou v repozitáři k dispozici místní judikaturní materiály; otevřené otázky jsou označeny jako výkladové.
+- Komentář obsahuje jedinou místní judikaturní kartu, [NS 30 Cdo 1712/2018](judikatura/NS-30-Cdo-1712-2018.md) (30. 4. 2020), citovanou u § 2, § 4 a § 5 v kapitole [01-obecna-pohrebni-sluzba.md](01-obecna-pohrebni-sluzba.md); jiné spisové značky soudních rozhodnutí neuvádí, protože k zákonu o pohřebnictví nejsou v repozitáři k dispozici další místní judikaturní materiály; otevřené otázky jsou označeny jako výkladové.
 - Přehled právních zásad podává [ZASADY.md](ZASADY.md), mapu normativních modalit [PRAVNI-MODALITY.md](PRAVNI-MODALITY.md).
 
 ---

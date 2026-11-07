@@ -13,7 +13,7 @@ Každá z třinácti vrstev odděluje místní zjištění, autorský test a doh
 - **Syntéza:** autorské propojení textu, systematiky a místních pramenů.
 - **Otevřená otázka:** místní korpus odpověď nedává nebo připouští více řešení.
 
-Místní korpus pro tuto mapu tvoří **4 kapitoly** (úvod [00-uvod.md](00-uvod.md) a tři komentářové kapitoly), **42 samostatně nadepsaných paragrafových jednotek** (12 v kapitole 1, 17 v kapitole 2, 13 v kapitole 3), **31 modalitních příkladů** v [PRAVNI-MODALITY.md](PRAVNI-MODALITY.md), **7 zásad** v [ZASADY.md](ZASADY.md) a **0 místních karet rozhodnutí**. Rejstřík ustanovení je k dispozici v [INDEX.md](INDEX.md).
+Místní korpus pro tuto mapu tvoří **4 kapitoly** (úvod [00-uvod.md](00-uvod.md) a tři komentářové kapitoly), **42 samostatně nadepsaných paragrafových jednotek** (12 v kapitole 1, 17 v kapitole 2, 13 v kapitole 3), **31 modalitních příkladů** v [PRAVNI-MODALITY.md](PRAVNI-MODALITY.md), **7 zásad** v [ZASADY.md](ZASADY.md) a **1 místní karta rozhodnutí** ([NS 30 Cdo 1712/2018](judikatura/NS-30-Cdo-1712-2018.md), citovaná u § 2, § 4 a § 5 v kapitole 1). Rejstřík ustanovení je k dispozici v [INDEX.md](INDEX.md).
 
 ## 1. Znění, novelizace a časová působnost
 
@@ -283,27 +283,37 @@ Reprezentativní normativní vazby porušení a následku:
 ## 9. Judikatura, nosné důvody a hranice použitelnosti
 
 **Zjištění z místního komentáře.**
-Repozitář zatím neobsahuje složku `judikatura/` ani žádnou místní kartu rozhodnutí; soubor zásad odkazuje na **0 místních karet s použitelnou citací** a kapitoly obsahují **0 spisových značek**. Komentář tuto mezeru sám deklaruje:
-- [Metodická poznámka](00-uvod.md): „Repozitář neobsahuje místní judikaturu k zákonu o pohřebnictví; komentář proto neuvádí žádné spisové značky soudních rozhodnutí a tam, kde text zákona ponechává otázku otevřenou, ji výslovně označuje jako výkladovou otázku.“
+Složka `judikatura/` obsahuje **1 místní kartu rozhodnutí**: [NS 30 Cdo 1712/2018](judikatura/NS-30-Cdo-1712-2018.md) (Nejvyšší soud, 30. 4. 2020, kat. A). Kapitola [1](01-obecna-pohrebni-sluzba.md) ji cituje u **§ 2, § 4 a § 5** (spisová značka 30 Cdo 1712/2018 je jedinou spisovou značkou v kapitolách); kapitoly 2 a 3 ani soubor zásad na ni neodkazují. Úvod stav popisuje takto:
+- [Metodická poznámka](00-uvod.md): „Jiné spisové značky soudních rozhodnutí komentář neuvádí a tam, kde text zákona ponechává otázku otevřenou, ji výslovně označuje jako výkladovou otázku.“
 - [Poznámka k metodě](00-uvod.md): „Kazuistiky jsou modelové situace sloužící k ilustraci aplikace normy; nejde o popis skutečných rozhodnutí.“
 
-Složka `judikatura/` bude doplněna strojově později. Do té doby se judikatorní závěr nesmí domýšlet a každá pasáž, která by jej potřebovala, zůstává otevřenou otázkou.
+Nosný závěr karty (právní věta):
+- [NS 30 Cdo 1712/2018](judikatura/NS-30-Cdo-1712-2018.md): „Dohoda zdravotnického zařízení a syna zemřelé o dočasném uložení těla zemřelé ve zdravotnickém zařízení, uzavřená před 1. lednem 2014, není sama o sobě neplatná pro rozpor se zákonem“.
 
-Otázky, u nichž bude místní judikatura nejvíce potřebná (seznam vychází z výkladových otázek kapitol, nikoli z rozhodnutí):
+Hranice použitelnosti, které kapitola 1 u karty sama vyznačuje:
+- [§ 2 — k místní judikaturní kartě](01-obecna-pohrebni-sluzba.md): „Karta se definic v § 2 dotýká jen nepřímo“.
+- [§ 4 — k místní judikaturní kartě](01-obecna-pohrebni-sluzba.md): „platnost takové dohody je třeba posuzovat podle soukromého práva, zatímco dodržení zákazů podle odst. 1 je otázkou veřejnoprávní odpovědnosti.“ A dále: „Zda závěr platí stejně pro dohody uzavřené podle občanského zákoníku č. 89/2012 Sb., karta neřeší; jde o výkladovou otázku.“
+- [§ 5 — k místní judikaturní kartě](01-obecna-pohrebni-sluzba.md): „o tom, jak dohoda o uložení ovlivňuje běh této lhůty, karta nic neříká, jde proto o výkladovou otázku.“
+
+Mimo rozsah této karty se judikatorní závěr nesmí domýšlet a každá pasáž, která by jej potřebovala, zůstává otevřenou otázkou. Další karty mohou do strojově doplňované složky `judikatura/` přibýt později.
+
+Otázky, u nichž bude další místní judikatura nejvíce potřebná (seznam vychází z výkladových otázek kapitol, nikoli z rozhodnutí):
 - zda souhlas zemřelého podle § 4 odst. 1 písm. b) mohou nahradit osoby podle § 114 odst. 1 OZ;
 - vymezení podmínek sociálního pohřbu podle § 5 odst. 1 a obsahu „slušného způsobu“;
 - souhlas více osob téže skupiny při exhumaci (§ 22 odst. 5) a přechod nájmu na více osob (§ 25 odst. 5);
 - obsah pojmu veřejný zájem při rušení pohřebiště (§ 24 odst. 1);
 - hranice přestupku a trestného činu hanobení lidských ostatků (§ 26 odst. 1 písm. e) až g));
-- doručení návrhů smluv a zánik užívacích práv podle § 29 odst. 4 a 5.
+- doručení návrhů smluv a zánik užívacích práv podle § 29 odst. 4 a 5;
+- zda závěr karty NS 30 Cdo 1712/2018 platí i pro dohody o dočasném uložení těla uzavřené od 1. 1. 2014 (§ 4) a jak taková dohoda ovlivňuje běh lhůty 96 hodin (§ 5 odst. 1).
 
 **Hloubkový test.**
-- Po doplnění karet u každého rozhodnutí oddělte výrok, nosný důvod, podpůrnou úvahu a skutkové i procesní předpoklady.
+- U karty NS 30 Cdo 1712/2018 i u každé další doplněné karty oddělte výrok, nosný důvod, podpůrnou úvahu a skutkové i procesní předpoklady; místní karta sama obsahuje jen právní větu a výčet citujících paragrafů.
+- Závěr karty se týká dohody uzavřené před 1. 1. 2014; na dohody uzavřené později jej nepřenášejte bez samostatného ověření (kapitola 1 to u § 4 označuje jako výkladovou otázku).
 - Ověřte, zda soud vykládal stejné znění (konsolidace k 1. 7. 2025 versus starší znění, např. před novelou zákonem č. 193/2017 Sb.) a stejný právní problém.
 - Rozhodnutí k obecnému nájmu (§ 2201 a násl. OZ) přenášejte na nájem hrobového místa jen v rozsahu, v němž § 25 nestanoví jinak.
 - Nevytvářejte obecnou právní větu z kazuistiky komentáře; jde o modelové situace, nikoli o rozhodovací praxi.
 
-**Místní opora.** [rejstřík komentáře](INDEX.md); [místní výkladové otázky](VYKLADOVE-OTAZKY.md); [místní zásady](ZASADY.md); [úvod — metodická poznámka](00-uvod.md)
+**Místní opora.** [rejstřík komentáře](INDEX.md); [místní výkladové otázky](VYKLADOVE-OTAZKY.md); [místní zásady](ZASADY.md); [úvod — metodická poznámka](00-uvod.md); [NS 30 Cdo 1712/2018](judikatura/NS-30-Cdo-1712-2018.md); [§ 2 — Vymezení základních pojmů](01-obecna-pohrebni-sluzba.md); [§ 4](01-obecna-pohrebni-sluzba.md); [§ 5](01-obecna-pohrebni-sluzba.md)
 
 ## 10. Konkurenční výklady, protiargumenty a hraniční případy
 
@@ -340,7 +350,7 @@ Typické hraniční případy z kazuistik: urna po předání vypraviteli (§ 1,
 
 **Hloubkový test.**
 - Formulujte nejsilnější verzi každého rozumně obhajitelného výkladu (např. pro náhradu souhlasu pozůstalými mluví § 114 OZ, proti ní výslovný text písm. b) a sankční povaha zákazu).
-- U každé varianty uveďte textový, systematický, účelový argument a místní judikatorní argument; ten zatím chybí (vrstva 9).
+- U každé varianty uveďte textový, systematický, účelový argument a místní judikatorní argument; ten je k dispozici jen v rozsahu karty [NS 30 Cdo 1712/2018](judikatura/NS-30-Cdo-1712-2018.md) u § 2, § 4 a § 5, ke sporným bodům v tabulce výše chybí (vrstva 9).
 - U sankčních norem dejte přednost výkladu ve prospěch obviněného; u veřejnoprávních limitů nájmu výkladu chránícímu tlecí dobu.
 - Porovnejte praktické následky variant a uveďte, kdo nese riziko chybné volby (podnikatel, obec, nájemce).
 - Není-li spor místními prameny řešitelný, zachovejte varianty a doporučte opatrný postup (písemný souhlas, souhlas všech osob, doložení času).
@@ -392,7 +402,7 @@ Aplikační vrstvu lze ověřit zejména v:
 - [Kapitola 3 — dozor, přestupky, přechodná a závěrečná ustanovení (§ 25a–37)](03-dozor-prestupky-zaverecna.md)
 
 **Hloubkový test.**
-- Strukturu řešení tvoří skutkový stav, právní otázka, rozhodné znění, pravidlo a výjimky, důkazy, subsumpce a výsledek; místní kazuistiky ji dodržují, chybí však vazba na rozhodovací praxi.
+- Strukturu řešení tvoří skutkový stav, právní otázka, rozhodné znění, pravidlo a výjimky, důkazy, subsumpce a výsledek; místní kazuistiky ji dodržují, na místní judikaturní kartu (vrstva 9) však nenavazují.
 - U každého znaku výslovně napište, která skutečnost jej naplňuje (např. doručení návrhu, uplynutí tlecí doby, čas převzetí těla) nebo proč naplněn není.
 - Variantu vytvořte změnou jediné rozhodné skutečnosti (válečný hrob místo běžného hrobu; podnikatel místo fyzické osoby; neznámá totožnost).
 - Uzavřete procesním krokem (žádost, odvolání, rozklad, občanskoprávní žaloba), důsledkem pro adresáta a zbytkovou nejistotou.
@@ -404,7 +414,7 @@ Aplikační vrstvu lze ověřit zejména v:
 **Zjištění z místního komentáře.**
 Stav poznání je posuzován nad **4 kapitolami**. Následující matice je redakční diagnostika, nikoli automatické věcné hodnocení správnosti komentáře.
 Předpisové kontrolní mezery zjištěné z místní struktury:
-- místní judikatura chybí; složka `judikatura/` bude doplněna strojově později;
+- místní judikaturu tvoří jediná karta [NS 30 Cdo 1712/2018](judikatura/NS-30-Cdo-1712-2018.md), citovaná u § 2, § 4 a § 5; k ostatním ustanovením kapitoly 1 a ke kapitolám 2 a 3 místní karta chybí;
 - místní důvodová zpráva není součástí repozitáře;
 - ústavní a unijní vazby nejsou v kapitolách výslovně rozpracovány;
 - oddíl s typicky rozhodnými důkazy chybí u 5 jednotek kapitoly 1 a u 7 jednotek kapitoly 3;
@@ -425,18 +435,18 @@ Matice zachycuje pouze přítomnost textového signálu v místní kapitole. Hod
 
 | Kapitola | Proces | Důkazy | Následky | Judikatura | Sporné výklady | Vazby | Aplikace | Stav |
 |---|---|---|---|---|---|---|---|---|
-| [Úvod](00-uvod.md) | ano | nenalezeno | ano | jen deklarace absence | ano | ano | ano | ano |
-| [Kapitola 1 — § 1–9](01-obecna-pohrebni-sluzba.md) | ano | ano | ano | nenalezeno | ano | ano | ano | ano |
+| [Úvod](00-uvod.md) | ano | nenalezeno | ano | ano (odkaz na 1 kartu) | ano | ano | ano | ano |
+| [Kapitola 1 — § 1–9](01-obecna-pohrebni-sluzba.md) | ano | ano | ano | ano (1 karta: § 2, § 4, § 5) | ano | ano | ano | ano |
 | [Kapitola 2 — § 10–25](02-balzamace-krematorium-pohrebiste.md) | ano | ano | ano | nenalezeno | ano | ano | ano | ano |
 | [Kapitola 3 — § 25a–37](03-dozor-prestupky-zaverecna.md) | ano | ano | ano | nenalezeno | ano | ano | ano | ano |
 
 ### Kontrolní priority podle místní struktury
 
-- **Judikatura:** textový signál rozhodovací praxe nebyl nalezen v žádné ze 3 komentářových kapitol; úvod obsahuje jen výslovnou deklaraci absence.
+- **Judikatura:** jediná místní karta [NS 30 Cdo 1712/2018](judikatura/NS-30-Cdo-1712-2018.md) je citována v kapitole 1 (§ 2, § 4, § 5) a úvod na ni odkazuje; v kapitolách 2 a 3 nebyl textový signál judikatury nalezen.
 - **Důkazy:** textový signál nebyl nalezen v 1 ze 4 kapitol: [Úvod](00-uvod.md); v kapitolách 1 a 3 chybí u části jednotek oddíl rozhodných důkazů.
 - **Vazby:** ústavní a unijní rovina chybí ve všech kapitolách.
 
-Aktualizační spouštěče specifické pro tento předpis: novela zákona o pohřebnictví po 1. 7. 2025; změna nebo nahrazení vyhlášky č. 277/2017 Sb.; změna § 113 a § 114 OZ; změna § 58 živnostenského zákona nebo § 6a zákona o regulaci reklamy; změny řízení o povolení záměru podle stavebního zákona; doplnění strojové složky `judikatura/`.
+Aktualizační spouštěče specifické pro tento předpis: novela zákona o pohřebnictví po 1. 7. 2025; změna nebo nahrazení vyhlášky č. 277/2017 Sb.; změna § 113 a § 114 OZ; změna § 58 živnostenského zákona nebo § 6a zákona o regulaci reklamy; změny řízení o povolení záměru podle stavebního zákona; doplnění další karty do strojové složky `judikatura/` nebo změna karty NS 30 Cdo 1712/2018.
 
 **Hloubkový test.**
 - Na konci výkladu evidujte ověřené pravidlo, použitý místní zdroj, míru jistoty, otevřenou otázku a datum kontroly.
@@ -478,6 +488,7 @@ Aktualizační spouštěče specifické pro tento předpis: novela zákona o poh
 - [ ] Každý pojem a modalita mají určený právní následek.
 - [ ] Procesní a důkazní rovina navazují na jednotlivé znaky normy.
 - [ ] Judikatura je zasazena do skutkového a procesního kontextu.
+- [ ] Karta NS 30 Cdo 1712/2018 je u § 2, § 4 a § 5 použita jen v rozsahu své právní věty (dohoda uzavřená před 1. 1. 2014).
 - [ ] Konkurenční výklad je formulován v nejsilnější obhajitelné podobě.
 - [ ] Modelový případ obsahuje úplnou subsumpci a variantu hraničního případu.
 - [ ] Nejistoty, mezery a aktualizační spouštěče jsou viditelné.
