@@ -111,6 +111,11 @@ Pro válečné hroby a pietní místa existuje zvláštní úprava v zákoně č
 
 **Vypravitel pohřbu (písm. p))** je osoba (fyzická i právnická), která sjedná pohřbení do 96 hodin od oznámení úmrtí, nebo obec zajišťující pohřbení podle § 5 odst. 1 až 3. Pojem je funkční: rozhoduje faktické sjednání pohřbení, nikoli příbuzenský vztah. Na status vypravitele zákon váže řadu práv (otevřít rakev či urnu, § 4a odst. 1; převzít urnu, § 7 odst. 1 písm. i)) i povinnost nést náklady (§ 4 odst. 4, § 5 odst. 9).
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [30 Cdo 1712/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5F1336444F4DD5EDC125857C0045502C?openDocument) — 30. 4. 2020, kat. A
+  > „Dohoda zdravotnického zařízení a syna zemřelé o dočasném uložení těla zemřelé ve zdravotnickém zařízení, uzavřená před 1. lednem 2014, není sama o sobě neplatná pro rozpor se zákonem"
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Po úmrtí seniora sjedná pohřbení jeho soused (nikoli příbuzný) tři dny po oznámení úmrtí synovi. Syn se o den později dostaví do pohřební služby, žádá vydání urny a tvrdí, že jako osoba podle § 114 odst. 1 OZ má přednost.
@@ -245,6 +250,11 @@ Neveřejné pohřebiště je úzká výjimka vázaná na registrovanou církev, 
 **Výklad:**
 
 § 4 je hmotněprávním jádrem obecné části. Odst. 1 formuluje generální příkaz zacházet s lidskými pozůstatky a ostatky **důstojně** a tak, aby nedošlo k **ohrožení veřejného zdraví nebo veřejného pořádku**, a z těchto důvodů stanoví osm zákazů.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [30 Cdo 1712/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5F1336444F4DD5EDC125857C0045502C?openDocument) — 30. 4. 2020, kat. A
+  > „Dohoda zdravotnického zařízení a syna zemřelé o dočasném uložení těla zemřelé ve zdravotnickém zařízení, uzavřená před 1. lednem 2014, není sama o sobě neplatná pro rozpor se zákonem"
 
 #### Katalog zákazů (odst. 1)
 
@@ -391,6 +401,11 @@ Oprávnění k otevření rakve, urny, hrobu a k exhumaci je taxativní; jiné o
 **Výklad:**
 
 § 5 upravuje tzv. **sociální pohřeb** — subsidiární povinnost obce zajistit pohřbení těla zemřelého, o které se nikdo jiný nepostará. Navazuje na § 114 odst. 3 OZ, podle něhož jiný právní předpis stanoví, jak a na čí náklady bude pohřben člověk, jehož pozůstalost ke krytí nákladů nestačí a nikdo je nehradí dobrovolně.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [30 Cdo 1712/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5F1336444F4DD5EDC125857C0045502C?openDocument) — 30. 4. 2020, kat. A
+  > „Dohoda zdravotnického zařízení a syna zemřelé o dočasném uložení těla zemřelé ve zdravotnickém zařízení, uzavřená před 1. lednem 2014, není sama o sobě neplatná pro rozpor se zákonem"
 
 #### Podmínky vzniku povinnosti obce (odst. 1)
 
